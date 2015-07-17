@@ -193,7 +193,7 @@
                                     <configuration>true</configuration>
                                     <sources>
                                         <source>
-                                            <location>src/main/resources</location>
+                                            <location>src/main/config</location>
                                             <includes>
                                                 <include>logback.*</include>
                                             </includes>
